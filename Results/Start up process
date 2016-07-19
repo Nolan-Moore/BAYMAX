@@ -1,0 +1,5 @@
+Start up Process
+1. cd BAYMAX/ScriptFiles
+2. ./temperature_script
+3. OPEN NEW TERMINAL
+4. ./BAYMAX/ScriptFiles/Baymax_Script
