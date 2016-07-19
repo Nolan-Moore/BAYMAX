@@ -1,0 +1,4 @@
+MP4Box -add /home/pi/BAYMAX/Results/practice.h264 /home/pi/BAYMAX/Results/practice.mp4
+source ~/.profile
+workon cv
+python /home/pi/BAYMAX/pulse_code/pulseAgain.py

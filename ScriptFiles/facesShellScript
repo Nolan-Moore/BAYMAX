@@ -1,0 +1,4 @@
+rm /home/pi/BAYMAX/Results/practice.h264
+rm /home/pi/BAYMAX/Results/practice.mp4
+rm /home/pi/BAYMAX/Results/resultVideo_magnified.avi
+raspivid -o /home/pi/BAYMAX/Results/practice.h264 -t 10000 -w 528 -h 592 -vs -n
